@@ -1,0 +1,27 @@
+#main {
+    padding: 2rem;
+}
+
+#title {
+    color: #00008b;
+}
+
+#img-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#image {
+    align-self: center;
+    max-width: 300px;
+    height: 100px;
+}
+
+#image-caption {
+    font-size: 2rem;
+}
+
+#tribute-link {
+    font-size: 2rem;
+}
